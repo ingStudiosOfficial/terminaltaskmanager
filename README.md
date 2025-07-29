@@ -5,7 +5,9 @@ A simple task manager in your terminal made with Java. Use numbers to navigate a
 
 1. Add task
 2. Delete task
-3. End programme
+3. Mark task as complete
+4. View completed tasks
+5. End programme
 
 # Installation 💻
 Use the setup wizard to install the programme. Check the releases [here](https://github.com/ingStudiosOfficial/terminaltaskmanager/releases).
